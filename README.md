@@ -26,3 +26,4 @@ Please read the security policy [Here](/SECURITY.md)
 - Alpinejs
 - Vite
 - Laravel Enum by BenSampo
+- saeedvaziry & vitodeploy (Original authors)
